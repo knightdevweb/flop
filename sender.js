@@ -1,5 +1,5 @@
 //bot token
-var telegram_bot_id = "";
+var telegram_bot_id = "7056319840:AAEZvpi9MeiSDQl60skzUnKsgGTBT_5rpoM";
 //chat id
 var chat_id = -1002036416348;
 var phr;
